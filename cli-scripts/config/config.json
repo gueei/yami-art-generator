@@ -1,0 +1,13 @@
+{
+  "bypassName": ".bypass",
+  "bypassId": 255,
+  "count": 50,
+  "imageDirectory": "./pngs/",
+  "layersConfig": "./config/layers.json",
+  "dnasConfig": "./config/dnas.json",
+  "outputDirectory": "./output/temp/",
+  "conflictThreshold": 0.6,
+  "conflictReport": "./config/conflict.json",
+  "reportTemplate": "./config/report_template.html",
+  "finalOutput": "./output/final/"
+}

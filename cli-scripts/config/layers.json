@@ -1,0 +1,141 @@
+[
+	{
+		"dirname": "eyes",
+		"name": "eyes",
+		"order": 3,
+		"variants": {
+			"0": {
+				"filename": "eyes1#100.png",
+				"name": "eyes1#100",
+				"weight": 10
+			},
+			"1": {
+				"filename": "eyes2#10.png",
+				"name": "eyes2#10",
+				"weight": 1
+			},
+			"2": {
+				"filename": "eyes3#100.png",
+				"name": "eyes3#100",
+				"weight": 10
+			},
+			"3": {
+				"filename": "eyes4#100.png",
+				"name": "eyes4#100",
+				"weight": 0
+			},
+			"4": {
+				"filename": "eyes5#100.png",
+				"name": "eyes5#100",
+				"weight": 0
+			},
+			"5": {
+				"filename": "eyes6#100.png",
+				"name": "eyes6#100",
+				"weight": 0
+			},
+			"255": {
+				"name": ".bypass",
+				"weight": 0
+			}
+		}
+	},
+	{
+		"dirname": "faces",
+		"name": "faces",
+		"order": 0,
+		"variants": {
+			"0": {
+				"filename": "face1#10.png",
+				"name": "face1#10",
+				"weight": 1
+			},
+			"1": {
+				"filename": "face2#90.png",
+				"name": "face2#90",
+				"weight": 1
+			},
+			"2": {
+				"filename": "face3#50.png",
+				"name": "face3#50",
+				"weight": 1
+			},
+			"3": {
+				"filename": "face4#60.png",
+				"name": "face4#60",
+				"weight": 1
+			},
+			"255": {
+				"name": ".bypass",
+				"weight": 0
+			}
+		}
+	},
+	{
+		"dirname": "head",
+		"name": "head",
+		"order": 2,
+		"variants": {
+			"0": {
+				"filename": "head1#10.png",
+				"name": "head1#10",
+				"weight": 1
+			},
+			"1": {
+				"filename": "head2#80.png",
+				"name": "head2#80",
+				"weight": 1
+			},
+			"2": {
+				"filename": "head3#100.png",
+				"name": "head3#100",
+				"weight": 1
+			},
+			"3": {
+				"filename": "head4#20.png",
+				"name": "head4#20",
+				"weight": 1
+			},
+			"4": {
+				"filename": "head5#70.png",
+				"name": "head5#70",
+				"weight": 1
+			},
+			"5": {
+				"filename": "head6#20.png",
+				"name": "head6#20",
+				"weight": 1
+			},
+			"6": {
+				"filename": "head7#50.png",
+				"name": "head7#50",
+				"weight": 1
+			},
+			"7": {
+				"filename": "head8#40.png",
+				"name": "head8#40",
+				"weight": 1
+			},
+			"255": {
+				"name": ".bypass",
+				"weight": 0
+			}
+		}
+	},
+	{
+		"dirname": "pinky",
+		"name": "pinky",
+		"order": 1,
+		"variants": {
+			"0": {
+				"filename": "pinky1#100.png",
+				"name": "pinky1#100",
+				"weight": 1
+			},
+			"255": {
+				"name": ".bypass",
+				"weight": 10
+			}
+		}
+	}
+]
