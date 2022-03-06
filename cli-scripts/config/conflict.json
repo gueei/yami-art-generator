@@ -1,0 +1,762 @@
+[
+	{
+		"composition": "./output/temp/img/0.png",
+		"layers": [
+			{
+				"image": {
+					"dir": "./pngs/faces/",
+					"filename": "face4#60.png",
+					"filepath": "./pngs/faces/face4#60.png",
+					"incl": true
+				},
+				"diff": 0.13380281690140844,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/head/",
+					"filename": "head4#20.png",
+					"filepath": "./pngs/head/head4#20.png",
+					"incl": true
+				},
+				"diff": 0,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/eyes/",
+					"filename": "eyes1#100.png",
+					"filepath": "./pngs/eyes/eyes1#100.png",
+					"incl": true
+				},
+				"diff": 0,
+				"conflict": false
+			}
+		],
+		"keep": true
+	},
+	{
+		"composition": "./output/temp/img/1.png",
+		"layers": [
+			{
+				"image": {
+					"dir": "./pngs/faces/",
+					"filename": "face4#60.png",
+					"filepath": "./pngs/faces/face4#60.png",
+					"incl": true
+				},
+				"diff": 0.2640845070422535,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/head/",
+					"filename": "head3#100.png",
+					"filepath": "./pngs/head/head3#100.png",
+					"incl": true
+				},
+				"diff": 0,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/eyes/",
+					"filename": "eyes3#100.png",
+					"filepath": "./pngs/eyes/eyes3#100.png",
+					"incl": true
+				},
+				"diff": 0,
+				"conflict": false
+			}
+		],
+		"keep": true
+	},
+	{
+		"composition": "./output/temp/img/2.png",
+		"layers": [
+			{
+				"image": {
+					"dir": "./pngs/faces/",
+					"filename": "face1#10.png",
+					"filepath": "./pngs/faces/face1#10.png",
+					"incl": true
+				},
+				"diff": 0.11971830985915492,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/head/",
+					"filename": "head5#70.png",
+					"filepath": "./pngs/head/head5#70.png",
+					"incl": true
+				},
+				"diff": 0,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/eyes/",
+					"filename": "eyes3#100.png",
+					"filepath": "./pngs/eyes/eyes3#100.png",
+					"incl": true
+				},
+				"diff": 0,
+				"conflict": false
+			}
+		],
+		"keep": true
+	},
+	{
+		"composition": "./output/temp/img/3.png",
+		"layers": [
+			{
+				"image": {
+					"dir": "./pngs/faces/",
+					"filename": "face1#10.png",
+					"filepath": "./pngs/faces/face1#10.png",
+					"incl": true
+				},
+				"diff": 0.11971830985915492,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/head/",
+					"filename": "head6#20.png",
+					"filepath": "./pngs/head/head6#20.png",
+					"incl": true
+				},
+				"diff": 0,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/eyes/",
+					"filename": "eyes3#100.png",
+					"filepath": "./pngs/eyes/eyes3#100.png",
+					"incl": true
+				},
+				"diff": 0,
+				"conflict": false
+			}
+		],
+		"keep": true
+	},
+	{
+		"composition": "./output/temp/img/4.png",
+		"layers": [
+			{
+				"image": {
+					"dir": "./pngs/faces/",
+					"filename": "face3#50.png",
+					"filepath": "./pngs/faces/face3#50.png",
+					"incl": true
+				},
+				"diff": 0.2887323943661972,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/head/",
+					"filename": "head8#40.png",
+					"filepath": "./pngs/head/head8#40.png",
+					"incl": true
+				},
+				"diff": 0,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/eyes/",
+					"filename": "eyes1#100.png",
+					"filepath": "./pngs/eyes/eyes1#100.png",
+					"incl": true
+				},
+				"diff": 0,
+				"conflict": false
+			}
+		],
+		"keep": true
+	},
+	{
+		"composition": "./output/temp/img/5.png",
+		"layers": [
+			{
+				"image": {
+					"dir": "./pngs/faces/",
+					"filename": "face2#90.png",
+					"filepath": "./pngs/faces/face2#90.png",
+					"incl": true
+				},
+				"diff": 0.29577464788732394,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/head/",
+					"filename": "head7#50.png",
+					"filepath": "./pngs/head/head7#50.png",
+					"incl": true
+				},
+				"diff": 0,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/eyes/",
+					"filename": "eyes1#100.png",
+					"filepath": "./pngs/eyes/eyes1#100.png",
+					"incl": true
+				},
+				"diff": 0,
+				"conflict": false
+			}
+		],
+		"keep": true
+	},
+	{
+		"composition": "./output/temp/img/6.png",
+		"layers": [
+			{
+				"image": {
+					"dir": "./pngs/faces/",
+					"filename": "face2#90.png",
+					"filepath": "./pngs/faces/face2#90.png",
+					"incl": true
+				},
+				"diff": 0.2992957746478873,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/head/",
+					"filename": "head8#40.png",
+					"filepath": "./pngs/head/head8#40.png",
+					"incl": true
+				},
+				"diff": 0,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/eyes/",
+					"filename": "eyes3#100.png",
+					"filepath": "./pngs/eyes/eyes3#100.png",
+					"incl": true
+				},
+				"diff": 0,
+				"conflict": false
+			}
+		],
+		"keep": true
+	},
+	{
+		"composition": "./output/temp/img/7.png",
+		"layers": [
+			{
+				"image": {
+					"dir": "./pngs/faces/",
+					"filename": "face4#60.png",
+					"filepath": "./pngs/faces/face4#60.png",
+					"incl": true
+				},
+				"diff": 0.1443661971830986,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/head/",
+					"filename": "head1#10.png",
+					"filepath": "./pngs/head/head1#10.png",
+					"incl": true
+				},
+				"diff": 0,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/eyes/",
+					"filename": "eyes3#100.png",
+					"filepath": "./pngs/eyes/eyes3#100.png",
+					"incl": true
+				},
+				"diff": 0,
+				"conflict": false
+			}
+		],
+		"keep": true
+	},
+	{
+		"composition": "./output/temp/img/8.png",
+		"layers": [
+			{
+				"image": {
+					"dir": "./pngs/faces/",
+					"filename": "face4#60.png",
+					"filepath": "./pngs/faces/face4#60.png",
+					"incl": true
+				},
+				"diff": 0.16549295774647887,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/head/",
+					"filename": "head6#20.png",
+					"filepath": "./pngs/head/head6#20.png",
+					"incl": true
+				},
+				"diff": 0,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/eyes/",
+					"filename": "eyes3#100.png",
+					"filepath": "./pngs/eyes/eyes3#100.png",
+					"incl": true
+				},
+				"diff": 0,
+				"conflict": false
+			}
+		],
+		"keep": true
+	},
+	{
+		"composition": "./output/temp/img/9.png",
+		"layers": [
+			{
+				"image": {
+					"dir": "./pngs/faces/",
+					"filename": "face1#10.png",
+					"filepath": "./pngs/faces/face1#10.png",
+					"incl": true
+				},
+				"diff": 0.007042253521126761,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/head/",
+					"filename": "head4#20.png",
+					"filepath": "./pngs/head/head4#20.png",
+					"incl": true
+				},
+				"diff": 0,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/eyes/",
+					"filename": "eyes3#100.png",
+					"filepath": "./pngs/eyes/eyes3#100.png",
+					"incl": true
+				},
+				"diff": 0,
+				"conflict": false
+			}
+		],
+		"keep": true
+	},
+	{
+		"composition": "./output/temp/img/10.png",
+		"layers": [
+			{
+				"image": {
+					"dir": "./pngs/faces/",
+					"filename": "face4#60.png",
+					"filepath": "./pngs/faces/face4#60.png",
+					"incl": true
+				},
+				"diff": 0.1619718309859155,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/head/",
+					"filename": "head2#80.png",
+					"filepath": "./pngs/head/head2#80.png",
+					"incl": true
+				},
+				"diff": 0,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/eyes/",
+					"filename": "eyes1#100.png",
+					"filepath": "./pngs/eyes/eyes1#100.png",
+					"incl": true
+				},
+				"diff": 0,
+				"conflict": false
+			}
+		],
+		"keep": true
+	},
+	{
+		"composition": "./output/temp/img/11.png",
+		"layers": [
+			{
+				"image": {
+					"dir": "./pngs/faces/",
+					"filename": "face1#10.png",
+					"filepath": "./pngs/faces/face1#10.png",
+					"incl": true
+				},
+				"diff": 0.6901408450704225,
+				"conflict": true
+			},
+			{
+				"image": {
+					"dir": "./pngs/pinky/",
+					"filename": "pinky1#100.png",
+					"filepath": "./pngs/pinky/pinky1#100.png",
+					"incl": true
+				},
+				"diff": 0.13380281690140844,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/head/",
+					"filename": "head4#20.png",
+					"filepath": "./pngs/head/head4#20.png",
+					"incl": true
+				},
+				"diff": 0,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/eyes/",
+					"filename": "eyes1#100.png",
+					"filepath": "./pngs/eyes/eyes1#100.png",
+					"incl": true
+				},
+				"diff": 0,
+				"conflict": false
+			}
+		],
+		"keep": false
+	},
+	{
+		"composition": "./output/temp/img/12.png",
+		"layers": [
+			{
+				"image": {
+					"dir": "./pngs/faces/",
+					"filename": "face1#10.png",
+					"filepath": "./pngs/faces/face1#10.png",
+					"incl": true
+				},
+				"diff": 0.5598591549295775,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/pinky/",
+					"filename": "pinky1#100.png",
+					"filepath": "./pngs/pinky/pinky1#100.png",
+					"incl": true
+				},
+				"diff": 0.2640845070422535,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/head/",
+					"filename": "head3#100.png",
+					"filepath": "./pngs/head/head3#100.png",
+					"incl": true
+				},
+				"diff": 0,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/eyes/",
+					"filename": "eyes3#100.png",
+					"filepath": "./pngs/eyes/eyes3#100.png",
+					"incl": true
+				},
+				"diff": 0,
+				"conflict": false
+			}
+		],
+		"keep": true
+	},
+	{
+		"composition": "./output/temp/img/13.png",
+		"layers": [
+			{
+				"image": {
+					"dir": "./pngs/faces/",
+					"filename": "face4#60.png",
+					"filepath": "./pngs/faces/face4#60.png",
+					"incl": true
+				},
+				"diff": 0.8169014084507042,
+				"conflict": true
+			},
+			{
+				"image": {
+					"dir": "./pngs/pinky/",
+					"filename": "pinky1#100.png",
+					"filepath": "./pngs/pinky/pinky1#100.png",
+					"incl": true
+				},
+				"diff": 0.16549295774647887,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/head/",
+					"filename": "head5#70.png",
+					"filepath": "./pngs/head/head5#70.png",
+					"incl": true
+				},
+				"diff": 0,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/eyes/",
+					"filename": "eyes3#100.png",
+					"filepath": "./pngs/eyes/eyes3#100.png",
+					"incl": true
+				},
+				"diff": 0,
+				"conflict": false
+			}
+		],
+		"keep": false
+	},
+	{
+		"composition": "./output/temp/img/14.png",
+		"layers": [
+			{
+				"image": {
+					"dir": "./pngs/faces/",
+					"filename": "face2#90.png",
+					"filepath": "./pngs/faces/face2#90.png",
+					"incl": true
+				},
+				"diff": 0.16549295774647887,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/head/",
+					"filename": "head2#80.png",
+					"filepath": "./pngs/head/head2#80.png",
+					"incl": true
+				},
+				"diff": 0,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/eyes/",
+					"filename": "eyes3#100.png",
+					"filepath": "./pngs/eyes/eyes3#100.png",
+					"incl": true
+				},
+				"diff": 0,
+				"conflict": false
+			}
+		],
+		"keep": true
+	},
+	{
+		"composition": "./output/temp/img/15.png",
+		"layers": [
+			{
+				"image": {
+					"dir": "./pngs/faces/",
+					"filename": "face4#60.png",
+					"filepath": "./pngs/faces/face4#60.png",
+					"incl": true
+				},
+				"diff": 0.8802816901408451,
+				"conflict": true
+			},
+			{
+				"image": {
+					"dir": "./pngs/pinky/",
+					"filename": "pinky1#100.png",
+					"filepath": "./pngs/pinky/pinky1#100.png",
+					"incl": true
+				},
+				"diff": 0.2992957746478873,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/head/",
+					"filename": "head7#50.png",
+					"filepath": "./pngs/head/head7#50.png",
+					"incl": true
+				},
+				"diff": 0,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/eyes/",
+					"filename": "eyes3#100.png",
+					"filepath": "./pngs/eyes/eyes3#100.png",
+					"incl": true
+				},
+				"diff": 0,
+				"conflict": false
+			}
+		],
+		"keep": false
+	},
+	{
+		"composition": "./output/temp/img/16.png",
+		"layers": [
+			{
+				"image": {
+					"dir": "./pngs/faces/",
+					"filename": "face3#50.png",
+					"filepath": "./pngs/faces/face3#50.png",
+					"incl": true
+				},
+				"diff": 0.2887323943661972,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/head/",
+					"filename": "head7#50.png",
+					"filepath": "./pngs/head/head7#50.png",
+					"incl": true
+				},
+				"diff": 0,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/eyes/",
+					"filename": "eyes1#100.png",
+					"filepath": "./pngs/eyes/eyes1#100.png",
+					"incl": true
+				},
+				"diff": 0,
+				"conflict": false
+			}
+		],
+		"keep": true
+	},
+	{
+		"composition": "./output/temp/img/17.png",
+		"layers": [
+			{
+				"image": {
+					"dir": "./pngs/faces/",
+					"filename": "face4#60.png",
+					"filepath": "./pngs/faces/face4#60.png",
+					"incl": true
+				},
+				"diff": 0.16549295774647887,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/head/",
+					"filename": "head2#80.png",
+					"filepath": "./pngs/head/head2#80.png",
+					"incl": true
+				},
+				"diff": 0,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/eyes/",
+					"filename": "eyes3#100.png",
+					"filepath": "./pngs/eyes/eyes3#100.png",
+					"incl": true
+				},
+				"diff": 0,
+				"conflict": false
+			}
+		],
+		"keep": true
+	},
+	{
+		"composition": "./output/temp/img/18.png",
+		"layers": [
+			{
+				"image": {
+					"dir": "./pngs/faces/",
+					"filename": "face2#90.png",
+					"filepath": "./pngs/faces/face2#90.png",
+					"incl": true
+				},
+				"diff": 0.14084507042253522,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/head/",
+					"filename": "head1#10.png",
+					"filepath": "./pngs/head/head1#10.png",
+					"incl": true
+				},
+				"diff": 0,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/eyes/",
+					"filename": "eyes1#100.png",
+					"filepath": "./pngs/eyes/eyes1#100.png",
+					"incl": true
+				},
+				"diff": 0,
+				"conflict": false
+			}
+		],
+		"keep": true
+	},
+	{
+		"composition": "./output/temp/img/19.png",
+		"layers": [
+			{
+				"image": {
+					"dir": "./pngs/faces/",
+					"filename": "face2#90.png",
+					"filepath": "./pngs/faces/face2#90.png",
+					"incl": true
+				},
+				"diff": 0.2992957746478873,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/head/",
+					"filename": "head7#50.png",
+					"filepath": "./pngs/head/head7#50.png",
+					"incl": true
+				},
+				"diff": 0,
+				"conflict": false
+			},
+			{
+				"image": {
+					"dir": "./pngs/eyes/",
+					"filename": "eyes3#100.png",
+					"filepath": "./pngs/eyes/eyes3#100.png",
+					"incl": true
+				},
+				"diff": 0,
+				"conflict": false
+			}
+		],
+		"keep": true
+	}
+]

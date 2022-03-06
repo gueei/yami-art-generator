@@ -1,0 +1,59 @@
+<html>
+    <head>
+        <style>
+            li{
+                list-style-type: none;
+            }
+            ul.composition{
+                display: flex;
+                flex-direction: row;
+                flex-wrap: wrap;
+                justify-content: space-around;
+            }
+            li.composition{
+                margin: 5px;
+                border: 1px black solid;
+                padding: 0;
+            }
+            img.composition {
+                max-width: 300px;
+            }
+            img.layer {
+                max-width: 100px;
+            }
+            li.no_keep{
+                border: 5px red solid;
+            }
+            ul.layer{
+                margin: 0;
+                display: flex;
+                flex-direction: row;
+                flex-wrap: wrap;
+            }
+            li.layer{
+            }
+            li.conflicted{
+                border: 5px red solid;
+            }
+        </style>
+    </head>
+<body>
+    <h1>Report</h1>
+    <ul class="composition">
+        {{@each(it.compositions) => compo, index}}
+        <li class="composition {{compo.keep? 'keep': 'no_keep'}}">
+            <h3>{{ compo.composition }}</h3>
+            <img class="composition" src="{{compo.composition}}" />
+            <ul class="layer">
+                {{@each(compo.layers) => layer, idx}}
+                <li class="layer {{layer.conflict? 'conflicted': 'no_conflict'}}" >
+                    <div><img class="layer" src="{{layer.image.dir}}{{encodeURIComponent(layer.image.filename)}}"/></div>
+                    <div>{{Math.round(layer.diff * 100)/100}}</div>
+                </li>
+                {{/each}}
+            </ul>
+        </li>
+        {{/each}}
+    </ul>
+</body>
+</html>

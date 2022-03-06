@@ -1,0 +1,16 @@
+{
+	"attributes": [
+		{
+			"trait_type": "faces",
+			"value": "face2#90"
+		},
+		{
+			"trait_type": "head",
+			"value": "head7#50"
+		},
+		{
+			"trait_type": "eyes",
+			"value": "eyes1#100"
+		}
+	]
+}
